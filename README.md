@@ -1,2 +1,4 @@
 # gitdemo
-This is my first github repository.I am learning how to use github
+This is my first github repository.
+<br>
+I am learning how to use github
